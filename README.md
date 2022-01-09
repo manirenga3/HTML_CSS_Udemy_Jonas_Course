@@ -1,4 +1,2 @@
-# HTML_CSS_Udemy_Jonas_Course
-
-Just an info about all the codes I learnt from this course.
-Check the branches of this repo for more codes.
+Just a repo for all the codes I learnt via Udemy course.
+Checkout the branches of this repo for more codes.
